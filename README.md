@@ -2,7 +2,12 @@
 
 This project is designed to set up the infrastructure for a serverless application using AWS services including Lambda functions, API Gateway, and DynamoDB.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJemIicUKQjp5Cvw0T2Pgp_NbJBLSq5Ij63Q&s" width="400"/>
+<table>
+  <tr>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJemIicUKQjp5Cvw0T2Pgp_NbJBLSq5Ij63Q&s" width="400"/></td>
+    <td><img src="https://www.rogerperkin.co.uk/wp-content/uploads/2021/02/terraform-logo.png" width="400"/></td>
+  </tr>
+</table>
 
 ## Description
 
