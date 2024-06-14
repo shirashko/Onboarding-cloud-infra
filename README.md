@@ -2,6 +2,8 @@
 
 This project is designed to set up the infrastructure for a serverless application using AWS services including Lambda functions, API Gateway, and DynamoDB.
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJemIicUKQjp5Cvw0T2Pgp_NbJBLSq5Ij63Q&s" width="400"/>
+
 ## Description
 
 `onboarding-cloud-infra` provides the necessary Terraform configurations to provision an AWS environment capable of handling user profile creation and retrieval through REST API endpoints.
