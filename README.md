@@ -4,8 +4,8 @@ This project is designed to set up the infrastructure for a serverless applicati
 
 <table>
   <tr>
-    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJemIicUKQjp5Cvw0T2Pgp_NbJBLSq5Ij63Q&s" width="400"/></td>
-    <td><img src="https://www.rogerperkin.co.uk/wp-content/uploads/2021/02/terraform-logo.png" width="400"/></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJemIicUKQjp5Cvw0T2Pgp_NbJBLSq5Ij63Q&s" width="300"/></td>
+    <td><img src="https://www.rogerperkin.co.uk/wp-content/uploads/2021/02/terraform-logo.png" width="300"/></td>
   </tr>
 </table>
 
